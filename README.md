@@ -39,7 +39,7 @@ To submit your project, you'll need two components:
    This should be saved in the top level of the repository as an MP4 file with filename
    `video.mp4`.
 
-Once your project is uploaded, send a link to your GitHub repository [here!][submission form]
+Once your project is uploaded, send a link to your [GitHub repository here!][submission form]
 
 [challenge]: challenge.pdf
-[submission form]: TODO
+[submission form]: https://quackhacks-spring-2023.devpost.com/
