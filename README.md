@@ -41,5 +41,5 @@ To submit your project, you'll need two components:
 
 Once your project is uploaded, send a link to your GitHub repository [here!][submission form]
 
-[challenge]: https://docs.google.com/document/d/17zeDsBE_1jWOmGu2r_m4ao1W9kt4f_8Y/edit?usp=sharing&ouid=105253696232997096322&rtpof=true&sd=true
+[challenge]: challenge.pdf
 [submission form]: TODO
